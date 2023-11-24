@@ -156,9 +156,9 @@
     
     .nav1{
       display: flex;
-      height: 60px;
+      height: 56px;
       width: 80%;
-      margin-bottom: 5px;
+      margin-bottom: 8px;
       img{
         height: 100%;
       }
@@ -169,9 +169,9 @@
       
     }
     .nav2{
-      margin-bottom: 5px;
+      margin-bottom: 8px;
       display: flex;
-      height: 50px;
+      height: 48px;
       width: 65%;
       img{
         height: 100%;
